@@ -1,0 +1,11 @@
+{
+  "name": "vscode-graphql-test",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^0.13.2",
+    "graphql-tag": "^2.9.2",
+    "graphql-yoga": "^1.14.12"
+  }
+}
