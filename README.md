@@ -10,5 +10,5 @@ I expect that after hitting enter underneath "id" and typing "em", it would show
 
 No autocompletions.
 
-graphql extension version: 0.0.10
+graphql extension version: 0.0.10  
 vscode version: 1.25.1
